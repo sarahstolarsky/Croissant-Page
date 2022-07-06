@@ -1,1 +1,15 @@
+body {
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+}
+ 
+footer a{
+    margin: 0 10px;
+}
+
+.croissant-photo {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
 
